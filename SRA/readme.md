@@ -1,0 +1,1 @@
+The notebook in this directory contains plots from data taken from the SRA database. More specifically, the metadata was obtained by filtering by organism and selecting "Orthoflavivirus denguei": https://www.ncbi.nlm.nih.gov/sra/?term=%22Orthoflavivirus+denguei%22[orgn%3A__txid3052464]. The download was made on May 22, 2025.
